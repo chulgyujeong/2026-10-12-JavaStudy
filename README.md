@@ -1,3 +1,9 @@
+# 📚 My Study
+
+## ☕ Java Study
+
+- [Java Study](./Java%20Study/README.md)
+
 1일차 오리엔테이션 기본 java 공부방향 소개
 
 2일차 자바의 특징
