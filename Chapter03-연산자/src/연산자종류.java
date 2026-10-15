@@ -214,7 +214,9 @@
        System.out.println("-5%2="+-5%2);
        System.out.println("-5%-2="+-5%-2);
        int z=10;
-       System.out.println(z+=10);
+       int result = 5 + 3 2;
+       
+       System.out.println(result);
 	}
 
 }
