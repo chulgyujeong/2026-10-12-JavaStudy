@@ -22,7 +22,6 @@ public class 선택조건문 {
 		} while (i <= 5);
 		String a = "난";
 		String b = "난";
-		sysout
 				
 				
 
