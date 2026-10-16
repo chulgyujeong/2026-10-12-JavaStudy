@@ -8,4 +8,5 @@ public class 기타사항 {
         System.out.println(5%0.0); // 연산이 불가능 Not a Number
 	}
 
+	
 }
